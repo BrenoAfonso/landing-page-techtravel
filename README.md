@@ -1,5 +1,8 @@
 # TechTravel — European Innovation Hubs
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
+
 A modern landing page showcasing Europe's leading technology ecosystems. Built with semantic HTML and CSS, focusing on clean design, typography, and responsive layout.
 
 ## Project Overview
